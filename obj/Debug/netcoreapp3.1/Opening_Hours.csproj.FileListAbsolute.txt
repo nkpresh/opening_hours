@@ -1,0 +1,15 @@
+C:\Users\Precious\source\repos\Opening_hours\bin\Debug\netcoreapp3.1\Opening_Hours.exe
+C:\Users\Precious\source\repos\Opening_hours\bin\Debug\netcoreapp3.1\Opening_Hours.deps.json
+C:\Users\Precious\source\repos\Opening_hours\bin\Debug\netcoreapp3.1\Opening_Hours.runtimeconfig.json
+C:\Users\Precious\source\repos\Opening_hours\bin\Debug\netcoreapp3.1\Opening_Hours.runtimeconfig.dev.json
+C:\Users\Precious\source\repos\Opening_hours\bin\Debug\netcoreapp3.1\Opening_Hours.dll
+C:\Users\Precious\source\repos\Opening_hours\bin\Debug\netcoreapp3.1\Opening_Hours.pdb
+C:\Users\Precious\source\repos\Opening_hours\obj\Debug\netcoreapp3.1\Opening_Hours.csprojAssemblyReference.cache
+C:\Users\Precious\source\repos\Opening_hours\obj\Debug\netcoreapp3.1\Opening_Hours.AssemblyInfoInputs.cache
+C:\Users\Precious\source\repos\Opening_hours\obj\Debug\netcoreapp3.1\Opening_Hours.AssemblyInfo.cs
+C:\Users\Precious\source\repos\Opening_hours\obj\Debug\netcoreapp3.1\Opening_Hours.dll
+C:\Users\Precious\source\repos\Opening_hours\obj\Debug\netcoreapp3.1\Opening_Hours.pdb
+C:\Users\Precious\source\repos\Opening_hours\obj\Debug\netcoreapp3.1\Opening_Hours.genruntimeconfig.cache
+C:\Users\Precious\source\repos\Opening_hours\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Precious\source\repos\Opening_hours\obj\Debug\netcoreapp3.1\Opening_Hours.csproj.CoreCompileInputs.cache
+C:\Users\Precious\source\repos\Opening_hours\obj\Debug\netcoreapp3.1\Opening_Hours.csproj.CopyComplete

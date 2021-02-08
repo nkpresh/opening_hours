@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OsRf0AbMEMpvHIkzN4klP/LpsPtLg9X5/i+sNuLOeQQZNZQ6zSD5LDG9rfTrljwppZsDLaQS9q0HQYOZdfc4Tg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Precious\\source\\repos\\Opening_hours\\Opening_Hours.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Precious\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
